@@ -11,8 +11,6 @@
 
 I am a passionate software developer and machine learning enthusiast currently pursuing a **Bachelor of Engineering in Information Technology** at **Pune Institute of Computer Technology** (2022-2026). I have experience working with full-stack web development, cloud computing, and AI-driven applications.
 
-Currently, I am interning as a **Software Developer at WayPort**, contributing to a travel platform by building scalable and containerized applications using **Node.js, React.js, Docker, and AWS**.
-
 ---
 
 ## 🔧 Tech Stack & Skills
