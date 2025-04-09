@@ -47,7 +47,12 @@ A system recommending skincare products based on user inputs like skin type and 
 
 ### [🎙 Speech Emotion Recognition](https://github.com/Harry9021/Speech-Emotion-Recognition.git)
 A model predicting emotions from speech inputs through a web interface.
-- **Tech Stack:** Vite, React, Flask, scikit-learn, Python
+- **Tech Stack:** ReactJS, Flask, scikit-learn, Python
+
+### [⚙️ Lightweight Rule Engine for Automation](https://github.com/Harry9021/lightweight-rule-engine)
+A web-based rule engine to define and evaluate custom conditions (like `cpu > 80`) and trigger actions accordingly. Includes real-time CPU and RAM monitoring using `gopsutil`.
+- **Tech Stack:** Go, React-Vite, SQLite, Tailwind CSS, gopsutil
+
 
 ---
 
