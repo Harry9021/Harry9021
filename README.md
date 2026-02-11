@@ -3,7 +3,7 @@
 🚀 **Software Developer | ML Enthusiast | Open Source Contributor**  
 📍 Pune, India  
 📧 harryingle00@gmail.com  
-🔗 [GitHub](https://github.com/Harry9021) | [LinkedIn](https://www.linkedin.com/in/hariom-ingle-3b943b258/) | [Portfolio](https://hariom-ingle-portfolio-18.vercel.app/)
+🔗 [GitHub](https://github.com/Harry9021) | [LinkedIn](https://www.linkedin.com/in/hariom-ingle-3b943b258/) | [Portfolio](https://harryingle.in/)
 
 ---
 
