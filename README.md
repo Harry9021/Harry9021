@@ -72,27 +72,6 @@ Currently:
 
 </div>
 
----
-
-## 💼 Experience
-
-### 🧠 AI Intern — Himitsu Lab *(Jan 2026 – Present | Remote)*
-- Developed an **Uptime Kuma-based monitoring feature** for the OPS Dashboard using **Next.js** and **Node.js**, tracking real-time uptime and health of company-deployed websites
-- Built an **automated alert system** with a **Dockerized PostgreSQL** backend (with seed scripts) that detects website errors and notifies admins via **Gmail** and **Google Chat**, significantly reducing incident response time
-- Configured admin settings and a **Docker-based deployment pipeline** for the OPS Dashboard, improving operational visibility and enabling proactive infrastructure management
-
-### 🔬 Research Intern — L3Cube Pune *(Aug 2025 – Present | Pune)*
-- Fine-tuned **BERT** for Marathi NER (low-resource language); proposed a **sliding window method** for paragraph-level long-range NER, improving contextual entity detection
-- Authored **3 research papers**: LLM vs. BERT for Marathi NER, Long-Range NER using Sliding Window, and POS Tagging Dataset Creation with BERT Fine-Tuning
-- Built and annotated a **Marathi POS tagging dataset**; benchmarked LLMs against fine-tuned BERT models for low-resource NLP accuracy and efficiency
-
-### 🌐 Software Developer Intern — WayPort *(June 2024 – Dec 2024 | Remote)*
-- Built a **cloud-native multi-modal travel platform** (flight, bus, train) using **Node.js (TypeScript)**, **Sequelize ORM**, and **AWS RDS** — improved response times by **20%** and route discovery by **30%**
-- Containerized microservices with **Docker on AWS EC2** via **NGINX** (40% faster deployments); modernized frontend with **Vite + React + Redux Toolkit**
-- Collaborated in an Agile team of 5+ through sprint planning, daily stand-ups, and peer code reviews
-
----
-
 ## 🚀 Projects
 
 ### ⚙️ [Lightweight Rule Engine for Automation](https://github.com/Harry9021/lightweight-rule-engine)
