@@ -19,11 +19,6 @@
 
 I'm a **Final Year B.E. Information Technology** student at **Pune Institute of Computer Technology (PICT)** (2022–2026, CGPA: 8.42) passionate about building production-grade systems at the intersection of **software engineering**, **machine learning**, and **NLP research**.
 
-Currently:
-- 🔬 **Research Intern @ L3Cube Pune** — Fine-tuning BERT for low-resource Marathi NLP (NER, POS Tagging), authored **3 research papers**
-- 🛠️ **AI Intern @ Himitsu Lab** — Building AI-powered ops dashboards with Next.js, Node.js, PostgreSQL & Docker
-- 📌 Based in **Pune, India** | Open to remote opportunities
-
 ---
 
 ## 🛠️ Tech Stack
