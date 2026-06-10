@@ -139,9 +139,6 @@ class HariomIngle:
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Harry9021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=8b949e&sideLabels=8b949e&dates=8b949e"/>
 
-<br/><br/>
-
-[![Harry9021's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harry9021&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Harry9021)
 
 </div>
 
